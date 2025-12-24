@@ -13,12 +13,15 @@ Wanderlust is a full-stack web application inspired by Airbnb. It allows users t
 *Frontend
 HTML, CSS, JavaScript
 Bootstrap / EJS 
+
 *Backend
 Node.js
 Express.js
+
 *Database
 MongoDB
 Mongoose
+
 *Other Tools
 Cloudinary (for image upload)
 Git & GitHub
